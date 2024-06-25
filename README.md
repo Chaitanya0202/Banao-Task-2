@@ -1,6 +1,9 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## output ![snapsearch](https://github.com/Chaitanya0202/Banao-Task-2/assets/115619207/642d21fe-8169-4260-8935-73fe7831af2e)
+
+
 
 ## Get started
 
